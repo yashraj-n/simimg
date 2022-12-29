@@ -1,4 +1,4 @@
-# Siming 🖼
+# Simimg 🖼
 
 ![demo](./assets/demo.gif)
 
